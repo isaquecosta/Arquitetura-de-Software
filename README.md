@@ -1,6 +1,6 @@
 # Arquitetura de Software
  
-Repositório da disciplina Programação 3, de Sistemas de Informação da UniFacisa.
+Repositório da disciplina Arquitetura de Software, de Sistemas de Informação da UniFacisa.
 
  - Prática com Spring Data JPA
  - Arquiteturas Monolítica e Baseada em Microservices
