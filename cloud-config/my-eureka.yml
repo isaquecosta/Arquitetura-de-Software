@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: my-eureka
+
+server:
+  port: 8090
+
+eureka:
+  client:
+    registerWithClient: false
+      

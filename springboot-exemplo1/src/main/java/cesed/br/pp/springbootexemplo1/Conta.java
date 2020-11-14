@@ -5,8 +5,9 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 import lombok.Data;
+import lombok.Getter;
 
-@Entity @Data 
+@Entity @Getter
 public class Conta {
 
 	@Id
